@@ -1,0 +1,13 @@
+# Model Metrics Report  
+
+## Final Model with Hyperparameters  
+LogisticRegression(class_weight='balanced')  
+
+### Parameters 
+* 
+
+## Performance Metrics  
+* Recall: 0.622
+* F-1: 0.519
+* Precision: 0.446
+* Accuracy: 0.635
