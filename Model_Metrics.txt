@@ -4,7 +4,38 @@
 LogisticRegression(class_weight='balanced')  
 
 ### Parameters 
-* 
+* -1.152282 BG_RUS
+* -0.702114 BG_PER
+* 0.514094 Neuter_status
+* 0.404517 Grooming 
+* -0.391763 BG_other
+* 0.384551 BG_TUV
+* 0.376883 BG_HCS
+* 0.372738 BG_SBI
+* -0.362198 BG_BUR
+* -0.343479 BG_BRI
+* 0.335880 BG_ORI
+* -0.303984 BG_EUR
+* 0.292880 BG_KOR
+* 0.287367 BG_NFO
+* 0.279862 Behaviour_problem
+* -0.210376 BG_CRX
+* 0.184347 BG_MCO
+* -0.151111 BG_DRX
+* 0.137314 agg_aggress_people
+* 0.114038 agg_shy
+* -0.098236 Outdoors
+* 0.092205 Contact_people
+* 0.091930 Aggression_cats
+* -0.080280 BG_SIB
+* 0.074263 BG_BEN
+* -0.061449 Age
+* -0.044266 BG_ABY
+* 0.037017 Activity_level
+* -0.019275 Other_cats
+* -0.011301 Gender
+* -0.008467 BG_RAG
+
 
 ## Performance Metrics  
 * Recall: 0.622
